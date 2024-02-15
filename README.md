@@ -1,3 +1,1 @@
 ### Hi there 👋
-
-I'm Nin from Campbodia, and I am a website 3D designer and developer with Three js. You can contact and checkout my work at ....
