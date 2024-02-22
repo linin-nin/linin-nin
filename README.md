@@ -1,11 +1,16 @@
-## Welcome
 
+Hi, I am **_Srey nin_**! I'm developing to make services that will improve our lives.
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- :mortar_board: University student
+- 🌱 Learning Web full stack
+- 🤔 Looking for open source to contribute
+- :video_game: Making a game as a hobby
 
-Hello, I am **_Sreynin_**, a software engineer committed to continuous learning and exploring new technologies to expand my knowledge and contribute to innovative solutions.
-I'm excited to team up with other tech enthusiasts and work on awesome stuff together!
+<!--
+**This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
+-->
 
-## Technologies actively
+<!--
 
-Here are some programming languages or tools that I have been trying to use in my work
-
-
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+-->
