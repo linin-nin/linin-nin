@@ -10,7 +10,7 @@ Hi, I am **_Srey nin_**, a software engineer that continuesly to learn new thing
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-🚀🚀🚀Tools and Technologies that I recainly use:
+## 🤖 Tools and technologies that I recainly use:
 
 
 
