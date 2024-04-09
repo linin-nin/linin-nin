@@ -1,4 +1,4 @@
-# 🤗😎 Welcome 😎🤗
+# 🤗 Welcome 🤗
 
 Hi, I am **_Srey nin_**, a software engineer that continuesly to learn new things to improve skills and experiences.
 
