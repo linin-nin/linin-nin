@@ -1,18 +1,17 @@
-# 🤗 Hello, I'm Lynin 🤗
+# 🤗 Hello, I'm Sreynin 🤗
 
-Hi, I am **_Srey nin_**, a software engineer that continuesly to learn new things to improve skills and experiences.
+I'm glad to meet you here! Let's take a look about me:
+- 🌱 Currently pursuring a degree in Computer science
+- 🧨 Working on full stack web development, web designing and 3D interactive websites
+- 🤔 Looking for Freelance Opportunities
 
-Let's take a look about me:
-- :mortar_board: University student of Computer science at RUPP
-- 🌱 Learning software engineer
-- 🤔 Looking for open source to contribute
+## 🌅 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linin-nin&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linin-nin&layout=compact)
 
 ## 🤖 Programming language and tools that I have been using:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 &nbsp;![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
