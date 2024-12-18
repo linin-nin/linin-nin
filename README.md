@@ -1,6 +1,6 @@
 # 🤗 Hello, I'm Sreynin 🤗
 
-I'm glad to meet you here! Let's take a look about me:
+Welcome to my corner! Let's take a look about me:
 - 🌱 Currently pursuring a degree in Computer science
 - 🧨 Working on full stack web development, web designing and 3D interactive websites
 - 🤔 Looking for Freelance Opportunities
