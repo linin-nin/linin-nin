@@ -2,7 +2,8 @@
 
 Welcome to my corner! Let's take a look about me:
 - 🌱 Currently pursuring a degree in Computer science
-- 🧨 Working on full stack web development, web designing and 3D interactive websites
+- 🧨 Working on full stack web development, web design and 3D interactive websites
+- 💥 Like to explore new things
 - 🤔 Looking for Freelance Opportunities
 
 ## 🌅 Stats
@@ -11,20 +12,7 @@ Welcome to my corner! Let's take a look about me:
 
 ## 🤖 Programming language and tools that I have been using:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-&nbsp;![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-&nbsp;![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-&nbsp;![Shadcn UI](https://img.shields.io/badge/SHADCN_UI-%23111000.svg?style=for-the-badge&logo=shadcnui)
-
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-&nbsp;![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-&nbsp;![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,next,figma,php,prisma,vercel,threejs,nodejs,laravel,ai,express,npm&perline=8)](https://skillicons.dev)
 
 
 
