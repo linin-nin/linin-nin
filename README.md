@@ -1,4 +1,4 @@
-# 🤗 Hello, I'm Sreynin 🤗
+# 🤗 Hello, I'm Nin 🤗
 
 Welcome to my corner! Let's take a look about me:
 - 🌱 Currently pursuring a degree in Computer science
