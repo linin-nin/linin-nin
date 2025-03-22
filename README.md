@@ -12,7 +12,7 @@ Welcome to my corner! Let's take a look about me:
 
 ## 🤖 Programming language and tools that I have been using:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,next,figma,php,prisma,vercel,threejs,nodejs,laravel,ai,express,gsap,npm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,next,figma,php,prisma,vercel,threejs,nodejs,laravel,ai,express,npm&perline=8)](https://skillicons.dev)
 
 
 
