@@ -1,10 +1,10 @@
 # 🤗 Hello, I'm Nin 🤗
 
 Welcome to my corner! Let's take a look about me:
-- 🌱 Currently pursuring a degree in Computer science
+- 🌱 Currently pursuing a degree in Computer science at Royal University of Phnom Penh in Cambodia 
 - 🧨 Working on full stack web development, web design and 3D interactive websites
-- 💥 Like to explore new things
-- 🤔 Looking for Freelance Opportunities
+- 💥 Love exploring new things
+- 🤔 Open to freelance opportunities in web development and design
 
 ## 🌅 Stats
 
